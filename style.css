@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Saira+Condensed:wght@500&family=Teko&family=Viga&display=swap');
+.main{
+    width: 200px;
+    height: 340px;
+    background-color: #fbfbfb;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.sub-card{
+    width: inherit;
+}
+.t{
+    height: 48%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t i{
+    font-size: 50px;
+}
+.for-tx{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.b{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: -10px;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.more{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.c{ 
+    
+    height: 20%;
+    width: 100%;
+    color: rgb(11, 11, 193);
+    display: flex;
+    justify-content: center;
+}
+.last{
+    margin-left: 25%;
+}
